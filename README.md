@@ -1,9 +1,9 @@
-# go-keyval
-
 [![Go Report Card](https://goreportcard.com/badge/github.com/danielgatis/go-keyval?style=flat-square)](https://goreportcard.com/report/github.com/danielgatis/go-keyval)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/danielgatis/go-keyval/master/LICENSE)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/danielgatis/go-keyval)
 [![Release](https://img.shields.io/github/release/danielgatis/go-keyval.svg?style=flat-square)](https://github.com/danielgatis/go-keyval/releases/latest)
+
+# go-keyval
 
 A Variadic helper to mimic named arguments.
 
